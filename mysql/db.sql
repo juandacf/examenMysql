@@ -1,5 +1,5 @@
-CREATE DATABASE examen;
-USE examen;
+CREATE DATABASE examen1;
+USE examen1;
 
 CREATE TABLE IF NOT EXISTS generos(
     id_genero INTEGER  AUTO_INCREMENT,
